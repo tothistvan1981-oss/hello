@@ -1,3 +1,4 @@
+# CREATED BY TI
 # első probálkozás
 '''
     Tobb soros komment

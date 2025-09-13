@@ -1,3 +1,4 @@
+# CREATED BY TI
 # Ez egy proba modul
 from tokenize import String
 
